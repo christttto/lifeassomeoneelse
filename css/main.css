@@ -1,3 +1,22 @@
+body{
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
 div {
 	font-size: 30px
+}
+.navigator{
+	overflow: hidden;
+	background-color: #0b678c;
+}
+.navigator a{
+	float: left;
+	color: white;
+	text-align: center;
+	padding: 10px 12px;
+	font-size: 15px;
+}
+.navigator a:hover {
+	background-color: #82c6ef;
+	color: black;
 }
