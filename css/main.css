@@ -17,6 +17,22 @@ div {
 	font-size: 15px;
 }
 .navigator a:hover {
-	background-color: #82c6ef;
+	background-color: #ddd;
 	color: black;
 }
+.navigator a.active {
+	background-color: #82c6ef;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
